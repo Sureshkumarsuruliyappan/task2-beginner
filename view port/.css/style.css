@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ header{
+   min-height: 143px;   
+   text-align: center;
+   color: white;
+}  
+article{
+    padding: 40px;
+    font-size: 29px;
+    background: #3598fb;
+}
+article>p{
+    font-size: 15px;
+    line-height: 2.0;
+}
+.container>div{
+    display: flex;
+    background: #3598fb;
+    padding: 19px;
+    margin: 9px auto;
+    width: 14em;
+    border-radius: 5px;
+    height: 69px;
+    align-items: flex-end;
+}
